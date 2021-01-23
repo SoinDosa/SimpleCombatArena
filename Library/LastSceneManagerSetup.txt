@@ -1,0 +1,9 @@
+sceneSetups:
+<<<<<<< HEAD
+- path: Assets/Scenes/Login.unity
+=======
+- path: Assets/Scenes/InGame.unity
+>>>>>>> c3faec9a36ee458fff2cea890e76751c36687553
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
