@@ -14,7 +14,7 @@ Photon PUN2를 활용한 2D 탑뷰 멀티플레이 슈팅게임이며 아직 완
 
 
 ## 게임 스냅샷
-<img src="SCA_Logo.jpg" width=50%><br>
+<img src="SCA_Logo.JPG" width=50%><br>
 <img src="SCA_Play.JPG" width=50%>
 ## 게임 소개 영상
 <a href="https://youtu.be/YjKWlMNbZc4">Youtube Link</a>
